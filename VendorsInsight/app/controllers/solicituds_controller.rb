@@ -1,0 +1,2 @@
+class SolicitudsController < ApplicationController
+end

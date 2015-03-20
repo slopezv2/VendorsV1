@@ -1,0 +1,4 @@
+class Solicitud < ActiveRecord::Base
+  belongs_to :vendedor
+  belongs_to :diseniador
+end
